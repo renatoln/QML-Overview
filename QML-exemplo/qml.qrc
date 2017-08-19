@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Database.qml</file>
+        <file>FormLogin.qml</file>
+        <file>MenuLateral.qml</file>
+        <file>PageItens.qml</file>
+        <file>PageListRemoteUsers.qml</file>
+    </qresource>
+</RCC>
