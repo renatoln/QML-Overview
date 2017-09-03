@@ -3,5 +3,5 @@ Exemplo QML com componentes básicos bastante utilizados em apps, acesso a banco
 
 #autor
 Renato Novais
-com o suporte valioso de Enoque Eneas ;)
+com o suporte valioso de Enoque Joseneas ;)
 
